@@ -1,0 +1,34 @@
+.btn-top{
+	background-color: #282A3A;
+	padding: 10px 15px;
+	border-radius: 4px;
+	color: white;
+}
+
+a:hover {
+	color: black;
+}
+
+.btn-recipes{
+	font-size: 17px;
+	background-color: #282A3A;
+	padding: 10px 15px;
+	border-radius: 4px;
+	color: white;
+}
+
+.btn-lessons{
+	font-size: 17px;
+	background-color: #282A3A;
+	padding: 10px 15px;
+	border-radius: 4px;
+	color: white;
+}
+
+.btn-chefs{
+	font-size: 17px;
+	background-color: #282A3A;
+	padding: 10px 15px;
+	border-radius: 4px;
+	color: white;
+}
